@@ -40,15 +40,43 @@
 		{
 			"name": "Sneaky Mushroom Skewer",
 			"description": "Grants a mid-level stealth boost. This simple mushroom-packed skewer has its colorful presentation to thank for its appeal.",
-			"level": "Mid",
 			"effect": "Stealth",
-			"duration": "6:00",
-			"value": "20",
-			"hearts": 3,
-			"materials": [
-				"silent shroom",
-				"silent shroom",
-				"silent shroom"
+			"levels": [
+				{
+					"level": "Low",
+					"duration": "4:00",
+					"value": "10",
+					"hearts": 2,
+					"materials": [
+						"silent shroom",
+						"silent shroom"
+					]
+				},
+				{
+					"level": "Mid",
+					"duration": "8:00",
+					"value": "30",
+					"hearts": 4,
+					"materials": [
+						"silent shroom",
+						"silent shroom",
+						"silent shroom",
+						"silent shroom"
+					]
+				},
+				{
+					"level": "High",
+					"duration": "10:00",
+					"value": "50",
+					"hearts": 5,
+					"materials": [
+						"silent shroom",
+						"silent shroom",
+						"silent shroom",
+						"silent shroom",
+						"silent shroom"
+					]
+				}
 			]
 		}
 	]
