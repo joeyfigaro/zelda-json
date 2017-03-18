@@ -1,0 +1,55 @@
+{
+	"collection": [
+		{
+			"name": "Sneaky Fried Wild Greens",
+			"description": "Grants a low-level stealth boost. A basic vegetable dish made by sautéing fresh wild plants.",
+			"effect": "Stealth",
+			"levels": [
+				{
+					"level": "Low",
+					"duration": "2:00",
+					"value": "10",
+					"hearts": 0,
+					"materials": [
+						"blue nightshade"
+					]
+				},
+				{
+					"level": "Mid",
+					"duration": "4:00",
+					"value": "40",
+					"hearts": 4,
+					"materials": [
+						"silent princess",
+						"silent princess"
+					]
+				},
+				{
+					"level": "High",
+					"duration": "6:00",
+					"value": "70",
+					"hearts": 6,
+					"materials": [
+						"silent princess",
+						"silent princess",
+						"silent princess"
+					]
+				}
+			]
+		},
+		{
+			"name": "Sneaky Mushroom Skewer",
+			"description": "Grants a mid-level stealth boost. This simple mushroom-packed skewer has its colorful presentation to thank for its appeal.",
+			"level": "Mid",
+			"effect": "Stealth",
+			"duration": "6:00",
+			"value": "20",
+			"hearts": 3,
+			"materials": [
+				"silent shroom",
+				"silent shroom",
+				"silent shroom"
+			]
+		}
+	]
+}
