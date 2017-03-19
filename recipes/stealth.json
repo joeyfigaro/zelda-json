@@ -4,7 +4,7 @@
 			"name": "Sneaky Fried Wild Greens",
 			"description": "Grants a low-level stealth boost. A basic vegetable dish made by sautéing fresh wild plants.",
 			"effect": "Stealth",
-			"levels": [
+			"variations": [
 				{
 					"level": "Low",
 					"duration": "2:00",
@@ -12,6 +12,39 @@
 					"hearts": 0,
 					"materials": [
 						"blue nightshade"
+					]
+				},
+				{
+					"level": "Low",
+					"duration": "6:00",
+					"value": "30",
+					"hearts": 0,
+					"materials": [
+						"blue nightshade",
+						"blue nightshade",
+						"blue nightshade"
+					]
+				},
+				{
+					"level": "Low",
+					"duration": "10:00",
+					"value": "60",
+					"hearts": 0,
+					"materials": [
+						"blue nightshade",
+						"blue nightshade",
+						"blue nightshade",
+						"blue nightshade",
+						"blue nightshade"
+					]
+				},
+				{
+					"level": "Low",
+					"duration": "2:00",
+					"value": "20",
+					"hearts": 2,
+					"materials": [
+						"silent princess"
 					]
 				},
 				{
@@ -39,15 +72,35 @@
 		},
 		{
 			"name": "Sneaky Mushroom Skewer",
-			"description": "Grants a mid-level stealth boost. This simple mushroom-packed skewer has its colorful presentation to thank for its appeal.",
+			"description": "Grants a stealth boost. This simple mushroom-packed skewer has its colorful presentation to thank for its appeal.",
 			"effect": "Stealth",
-			"levels": [
+			"variations": [
+				{
+					"level": "Low",
+					"duration": "2:00",
+					"value": "10",
+					"hearts": 1,
+					"materials": [
+						"silent shroom"
+					]
+				},
 				{
 					"level": "Low",
 					"duration": "4:00",
 					"value": "10",
 					"hearts": 2,
 					"materials": [
+						"silent shroom",
+						"silent shroom"
+					]
+				},
+				{
+					"level": "Mid",
+					"duration": "6:00",
+					"value": "20",
+					"hearts": 3,
+					"materials": [
+						"silent shroom",
 						"silent shroom",
 						"silent shroom"
 					]
