@@ -1,0 +1,581 @@
+{
+	"collection": [
+		{
+			"name": "Hearty Meat and Mushroom Skewer",
+			"description": "Restores your health and temporarily increases your maximum hearts. A filling dish made by cooking fresh seafood and meat together",
+			"effect": "Max Hearts",
+			"variations": [
+				{
+					"value": 160,
+					"hearts": 12,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"hearty durian",
+						"hylian shroom",
+						"raw meat"
+					]
+				},
+				{
+					"value": 140,
+					"hearts": 8,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"hylian shroom",
+						"raw meat",
+						"raw meat"
+					]
+				},
+				{
+					"value": 130,
+					"hearts": 8,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"hylian shroom",
+						"hylian shroom",
+						"raw meat"
+					]
+				},
+				{
+					"value": 120,
+					"hearts": 4,
+					"materials": [
+						"hearty durian",
+						"hylian shroom",
+						"raw meat",
+						"raw meat",
+						"raw meat"
+					]
+				},
+				{
+					"value": 110,
+					"hearts": 4,
+					"materials": [
+						"hearty durian",
+						"hylian shroom",
+						"hylian shroom",
+						"raw meat",
+						"raw meat"
+					]
+				},
+				{
+					"value": 110,
+					"hearts": 8,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"hylian shroom",
+						"raw meat",
+						"raw meat"
+					]
+				},
+				{
+					"value": 90,
+					"hearts": 4,
+					"materials": [
+						"hearty durian",
+						"hylian shroom",
+						"raw meat",
+						"raw meat"
+					]
+				},
+				{
+					"value": 90,
+					"hearts": 4,
+					"materials": [
+						"hearty durian",
+						"hylian shroom",
+						"hylian shroom",
+						"hylian shroom",
+						"raw meat"
+					]
+				},
+				{
+					"value": 80,
+					"hearts": 4,
+					"materials": [
+						"hearty durian",
+						"hylian shroom",
+						"hylian shroom",
+						"raw meat"
+					]
+				},
+				{
+					"value": 60,
+					"hearts": 4,
+					"materials": [
+						"hearty durian",
+						"hylian shroom",
+						"raw meat"
+					]
+				}
+			]
+		},
+		{
+			"name": "Hearty Simmered Fruit",
+			"description": "Restores your health and temporarily increases your maximum hearts. This sweet dish is made by heaping tasty fruits into a pan and simmering until tender.",
+			"effect": "Max Hearts",
+			"variations": [
+				{
+					"value": 210,
+					"hearts": 20,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"hearty durian",
+						"hearty durian",
+						"hearty durian"
+					]
+				},
+				{
+					"value": 150,
+					"hearts": 16,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"hearty durian",
+						"hearty durian"
+					]
+				},
+				{
+					"value": 100,
+					"hearts": 12,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"hearty durian"
+					]
+				},
+				{
+					"value": 60,
+					"hearts": 8,
+					"materials": [
+						"hearty durian",
+						"hearty durian"
+					]
+				},
+				{
+					"value": 30,
+					"hearts": 4,
+					"materials": [
+						"hearty durian"
+					]
+				}
+			]
+		},
+		{
+			"name": "Hearty Meat and Seafood Fry",
+			"description": "Restores your health and temporarily increases your maximum hearts. A filling dish made by cooking fresh seafood and meat together.",
+			"effect": "Max Hearts",
+			"variations": [
+				{
+					"value": 230,
+					"hearts": 8,
+					"materials": [
+						"hearty bass",
+						"hearty bass",
+						"hearty bass",
+						"hearty bass",
+						"raw meat"
+					]
+				},
+				{
+					"value": 200,
+					"hearts": 6,
+					"materials": [
+						"hearty bass",
+						"hearty bass",
+						"hearty bass",
+						"raw meat",
+						"raw meat"
+					]
+				},
+				{
+					"value": 170,
+					"hearts": 4,
+					"materials": [
+						"hearty bass",
+						"hearty bass",
+						"raw meat",
+						"raw meat",
+						"raw meat"
+					]
+				},
+				{
+					"value": 140,
+					"hearts": 2,
+					"materials": [
+						"hearty bass",
+						"raw meat",
+						"raw meat",
+						"raw meat",
+						"raw meat"
+					]
+				},
+				{
+					"value": 160,
+					"hearts": 6,
+					"materials": [
+						"hearty bass",
+						"hearty bass",
+						"hearty bass",
+						"raw meat"
+					]
+				},
+				{
+					"value": 100,
+					"hearts": 4,
+					"materials": [
+						"hearty bass",
+						"hearty bass",
+						"raw meat"
+					]
+				},
+				{
+					"value": 70,
+					"hearts": 2,
+					"materials": [
+						"hearty bass",
+						"raw meat",
+						"raw meat"
+					]
+				},
+				{
+					"value": 160,
+					"hearts": 6,
+					"materials": [
+						"hearty bass",
+						"hearty bass",
+						"hearty bass",
+						"raw meat"
+					]
+				},
+				{
+					"value": 130,
+					"hearts": 4,
+					"materials": [
+						"hearty bass",
+						"hearty bass",
+						"raw meat",
+						"raw meat"
+					]
+				},
+				{
+					"value": 110,
+					"hearts": 2,
+					"materials": [
+						"hearty bass",
+						"raw meat",
+						"raw meat",
+						"raw meat"
+					]
+				},
+				{
+					"value": 50,
+					"hearts": 2,
+					"materials": [
+						"hearty bass",
+						"raw meat"
+					]
+				}
+			]
+		},
+		{
+			"name": "Hearty Fish Skewer",
+			"description": "Restores your health and temporarily increases your maximum hearts. A simple dish made by cooking chunks of fresh fish on a skewer.",
+			"effect": "Max Hearts",
+			"variations": [
+				{
+					"value": 30,
+					"hearts": 2,
+					"materials": [
+						"hearty bass"
+					]
+				},
+				{
+					"value": 70,
+					"hearts": 4,
+					"materials": [
+						"hearty bass",
+						"hearty bass"
+					]
+				},
+				{
+					"value": 120,
+					"hearts": 6,
+					"materials": [
+						"hearty bass",
+						"hearty bass",
+						"hearty bass"
+					]
+				},
+				{
+					"value": 180,
+					"hearts": 8,
+					"materials": [
+						"hearty bass",
+						"hearty bass",
+						"hearty bass",
+						"hearty bass"
+					]
+				},
+				{
+					"value": 260,
+					"hearts": 10,
+					"materials": [
+						"hearty bass",
+						"hearty bass",
+						"hearty bass",
+						"hearty bass",
+						"hearty bass"
+					]
+				}
+			]
+		},
+		{
+			"name": "Hearty Simmered Fruit",
+			"description": "Restores your health and temporarily increases your maximum hearts. This sweet dish is made by heaping tasty fruits into a pan and simmering until tender.",
+			"effect": "Max Hearts",
+			"value": 150,
+			"hearts": 16,
+			"materials": [
+				"hearty durian",
+				"hearty durian",
+				"hearty durian",
+				"hearty durian"
+			]
+		},
+		{
+			"name": "Hearty Fried Wild Greens (THIS CAN'T BE RIGHT)",
+			"description": null,
+			"effect": "Max Hearts",
+			"value": 160,
+			"hearts": 1,
+			"materials": [
+				"big hearty radish",
+				"big hearty radish",
+				"big hearty radish",
+				"hearty radish",
+				"monster extract"
+			]
+		},
+		{
+			"name": "Hearty Meat Skewer",
+			"description": "Restores your health and temporarily increases your maximum hearts. A juicy, filling snack made by grilling small chunks of meat on a skewer.",
+			"effect": "Max Hearts",
+			"variations": [
+				{
+					"value": 190,
+					"hearts": 16,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"hearty durian",
+						"hearty durian",
+						"raw meat"
+					]
+				},
+				{
+					"value": 170,
+					"hearts": 12,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"hearty durian",
+						"raw meat",
+						"raw meat"
+					]
+				},
+				{
+					"value": 160,
+					"hearts": 8,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"raw meat",
+						"raw meat",
+						"raw meat"
+					]
+				},
+				{
+					"value": 140,
+					"hearts": 4,
+					"materials": [
+						"hearty durian",
+						"raw meat",
+						"raw meat",
+						"raw meat",
+						"raw meat"
+					]
+				},
+				{
+					"value": 120,
+					"hearts": 8,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"raw meat",
+						"raw meat"
+					]
+				},
+				{
+					"value": 100,
+					"hearts": 4,
+					"materials": [
+						"hearty durian",
+						"raw meat",
+						"raw meat",
+						"raw meat"
+					]
+				},
+				{
+					"value": 80,
+					"hearts": 8,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"raw meat"
+					]
+				},
+				{
+					"value": 70,
+					"hearts": 4,
+					"materials": [
+						"hearty durian",
+						"raw meat",
+						"raw meat"
+					]
+				},
+				{
+					"value": 50,
+					"hearts": 4,
+					"materials": [
+						"hearty durian",
+						"raw meat"
+					]
+				}
+			]
+		},
+		{
+			"name": "Hearty Fruit and Mushroom Mix",
+			"description": "Restores your health and temporarily increases your maximum hearts. This dish contrasts the sweetness of fruit with the savoriness of mushrooms.",
+			"effect": "Max Hearts",
+			"variations": [
+				{
+					"value": 40,
+					"hearts": 4,
+					"materials": [
+						"hearty durian",
+						"hylian shroom"
+					]
+				},
+				{
+					"value": 70,
+					"hearts": 8,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"hylian shroom"
+					]
+				},
+				{
+					"value": 50,
+					"hearts": 4,
+					"materials": [
+						"hearty durian",
+						"hylian shroom",
+						"hylian shroom"
+					]
+				},
+				{
+					"value": 120,
+					"hearts": 12,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"hearty durian",
+						"hylian shroom"
+					]
+				},
+				{
+					"value": 90,
+					"hearts": 8,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"hylian shroom",
+						"hylian shroom"
+					]
+				},
+				{
+					"value": 80,
+					"hearts": 4,
+					"materials": [
+						"hearty durian",
+						"hylian shroom",
+						"hylian shroom",
+						"hylian shroom",
+						"hylian shroom"
+					]
+				},
+				{
+					"value": 60,
+					"hearts": 4,
+					"materials": [
+						"hearty durian",
+						"hylian shroom",
+						"hylian shroom",
+						"hylian shroom"
+					]
+				},
+				{
+					"value": 180,
+					"hearts": 16,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"hearty durian",
+						"hearty durian",
+						"hylian shroom"
+					]
+				},
+				{
+					"value": 150,
+					"hearts": 12,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"hearty durian",
+						"hylian shroom",
+						"hylian shroom"
+					]
+				},
+				{
+					"value": 110,
+					"hearts": 8,
+					"materials": [
+						"hearty durian",
+						"hearty durian",
+						"hylian shroom",
+						"hylian shroom",
+						"hylian shroom"
+					]
+				}
+			]
+		},
+		{
+			"name": "Hearty Steamed Meat",
+			"description": null,
+			"effect": "Max Hearts",
+			"value": 0,
+			"hearts": 3,
+			"materials": [
+				"raw meat",
+				"hearty radish",
+				"hearty truffle"
+			]
+		}
+	]
+}
