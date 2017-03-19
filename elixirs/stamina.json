@@ -1,0 +1,38 @@
+{
+	"collection": [
+		{
+			"name": "Energizing Elixir",
+			"description": "Restores your stamina, which is used when performing physical actions such as climbing walls or swimming.",
+			"effect": "Stamina",
+			"variations": [
+				{
+					"value": 90,
+					"effect_value": 1.6,
+					"materials": [
+						"hinox toenail",
+						"energetic rhino beetle"
+					]
+				},
+				{
+					"value": 30,
+					"effect_value": 1,
+					"materials": [
+						"restless cricket",
+						"restless cricket",
+						"restless cricket",
+						"restless cricket",
+						"bokoblin horn"
+					]
+				},
+				{
+					"value": 40,
+					"effect_value": 0.2,
+					"materials": [
+						"restless cricket",
+						"bokoblin horn"
+					]
+				}
+			]
+		}
+	]
+}
