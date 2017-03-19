@@ -1,0 +1,66 @@
+{
+	"collection": [
+		{
+			"name": "Hasty Mushroom Skewer",
+			"description": "Grants a movement-speed boost. This simple mushroom-packed skewer has its colorful presentation to thank for its appeal.",
+			"effect": "Haste",
+			"variations": [
+				{
+					"level": "Low",
+					"hearts": 1,
+					"duration": "1:00",
+					"value": 10,
+					"materials": [
+						"rushshroom"
+					]
+				},
+				{
+					"level": "Low",
+					"hearts": 2,
+					"duration": "2:00",
+					"value": 10,
+					"materials": [
+						"rushshroom",
+						"rushshroom"
+					]
+				},
+				{
+					"level": "Low",
+					"hearts": 3,
+					"duration": "3:00",
+					"value": 20,
+					"materials": [
+						"rushshroom",
+						"rushshroom",
+						"rushshroom"
+					]
+				},
+				{
+					"level": "Low",
+					"hearts": 4,
+					"duration": "4:00",
+					"value": 30,
+					"materials": [
+						"rushshroom",
+						"rushshroom",
+						"rushshroom",
+						"rushshroom"
+					]
+				},
+				{
+					"level": "Low",
+					"hearts": 5,
+					"duration": "5:00",
+					"value": 50,
+					"materials": [
+						"rushshroom",
+						"rushshroom",
+						"rushshroom",
+						"rushshroom",
+						"rushshroom"
+					]
+				}
+			]
+		}
+	]
+}

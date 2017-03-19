@@ -1,0 +1,37 @@
+{
+	"collection": [
+		{
+			"name": "Hasty Elixir",
+			"description": "Grants a haste effect, which boosts your movement speed while running, swimming, or climbing.",
+			"effect": "Haste",
+			"variations": [
+				{
+					"level": "Low",
+					"value": 100,
+					"hearts": 0,
+					"duration": "8:10",
+					"materials": [
+						"hightail lizard",
+						"hightail lizard",
+						"bokoblin horn",
+						"bokoblin fang",
+						"bokoblin guts"
+					]
+				},
+				{
+					"level": "Mid",
+					"value": 100,
+					"hearts": 0,
+					"duration": "13:10",
+					"materials": [
+						"hightail lizard",
+						"hightail lizard",
+						"bokoblin horn",
+						"bokoblin fang",
+						"bokoblin guts"
+					]
+				}
+			]
+		}
+	]
+}
