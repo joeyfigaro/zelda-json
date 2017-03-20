@@ -1,23 +1,21 @@
-{
-	"collection": [
-		{
-			"name": "Enduring Elixir",
-			"description": "Restores stamina and temporarily extends your Stamina Wheel. The additional stamina will disappear as it's used.",
-			"effect": "Max Stamina",
-			"variations": [
-				{
-					"value": "280",
-					"effect_value": "0.2",
-					"hearts": 4,
-					"materials": [
-						"tireless frog",
-						"bokoblin guts",
-						"bokoblin guts",
-						"bokoblin guts",
-						"bokoblin guts"
-					]
-				}
-			]
-		}
-	]
-}
+[
+	{
+		"name": "Enduring Elixir",
+		"description": "Restores stamina and temporarily extends your Stamina Wheel. The additional stamina will disappear as it's used.",
+		"effect": "Max Stamina",
+		"variations": [
+			{
+				"value": "280",
+				"effect_value": "0.2",
+				"hearts": 4,
+				"materials": [
+					"tireless frog",
+					"bokoblin guts",
+					"bokoblin guts",
+					"bokoblin guts",
+					"bokoblin guts"
+				]
+			}
+		]
+	}
+]

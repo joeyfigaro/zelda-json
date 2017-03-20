@@ -1,23 +1,21 @@
-{
-	"collection": [
-		{
-			"name": "Enduring Fried Wild Greens",
-			"description": "Restores and overfills your Stamina Wheel. A basic vegetable dish made by sautéing fresh wild plants.",
-			"effect": "Max Stamina",
-			"variations": [
-				{
-					"value": 420,
-					"effect_value": 2,
-					"hearts": 20,
-					"materials": [
-						"endura carrot",
-						"endura carrot",
-						"endura carrot",
-						"endura carrot",
-						"endura carrot"
-					]
-				}
-			]
-		}
-	]
-}
+[
+	{
+		"name": "Enduring Fried Wild Greens",
+		"description": "Restores and overfills your Stamina Wheel. A basic vegetable dish made by sautéing fresh wild plants.",
+		"effect": "Max Stamina",
+		"variations": [
+			{
+				"value": 420,
+				"effect_value": 2,
+				"hearts": 20,
+				"materials": [
+					"endura carrot",
+					"endura carrot",
+					"endura carrot",
+					"endura carrot",
+					"endura carrot"
+				]
+			}
+		]
+	}
+]

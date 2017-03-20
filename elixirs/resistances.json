@@ -1,103 +1,101 @@
-{
-	"collection": [
-		{
-			"name": "Fireproof Elixir",
-			"description": "Grants a fireproof effect, which prevents your body from catching fire. Be sure to pack this when venturing out to explore Death Mountain.",
-			"effect": "Fireproof",
-			"variations": [
-				{
-					"value": 230,
-					"duration": "15:10",
-					"hearts": 0,
-					"materials": [
-						"smotherwing butterfly",
-						"bokoblin guts",
-						"bokoblin guts",
-						"keese eyeball",
-						"keese eyeball"
-					]
-				}
-			]
-		},
-		{
-			"name": "Chilly Elixir",
-			"description": null,
-			"effect": "Heat Resistance",
-			"variations": [
-				{
-					"value": 40,
-					"duration": "5:30",
-					"hearts": 0,
-					"materials": [
-						"cold darner",
-						"octorok tentacle",
-						"ice keese wing"
-					]
-				},
-				{
-					"value": 70,
-					"duration": "7:10",
-					"hearts": 0,
-					"materials": [
-						"moblin horn",
-						"moblin horn",
-						"moblin horn",
-						"moblin horn",
-						"cold darner"
-					]
-				}
-			]
-		},
-		{
-			"name": "Spicy Elixir",
-			"description": "Grants a warming effect, increasing your resistance to cold environments. Very useful when exploring snow-covered mountains.",
-			"effect": "Cold Resistance",
-			"variations": [
-				{
-					"level": null,
-					"value": 230,
-					"duration": "15:10",
-					"hearts": 0,
-					"materials": [
-						"bokoblin guts",
-						"bokoblin guts",
-						"bokoblin guts",
-						"bokoblin guts",
-						"summerwing butterfly"
-					]
-				},
-				{
-					"level": "High",
-					"value": 1140,
-					"duration": "11:50",
-					"hearts": 2.5,
-					"materials": [
-						"summerwing butterfly",
-						"lynel guts",
-						"lynel guts",
-						"naydra's scale",
-						"farosh's scale"
-					]
-				}
-			]
-		},
-		{
-			"name": "Electro Elixir",
-			"description": null,
-			"effect": "Electricity Resistance",
-			"variations": [
-				{
-					"level": "Mid",
-					"value": 30,
-					"duration": "6:10",
-					"hearts": 0,
-					"materials": [
-						"electric darner",
-						"electric darner",
-						"lizalfos horn"
-					]
-				}
-			]
-		}
-	]
-}
+[
+	{
+		"name": "Fireproof Elixir",
+		"description": "Grants a fireproof effect, which prevents your body from catching fire. Be sure to pack this when venturing out to explore Death Mountain.",
+		"effect": "Fireproof",
+		"variations": [
+			{
+				"value": 230,
+				"duration": "15:10",
+				"hearts": 0,
+				"materials": [
+					"smotherwing butterfly",
+					"bokoblin guts",
+					"bokoblin guts",
+					"keese eyeball",
+					"keese eyeball"
+				]
+			}
+		]
+	},
+	{
+		"name": "Chilly Elixir",
+		"description": null,
+		"effect": "Heat Resistance",
+		"variations": [
+			{
+				"value": 40,
+				"duration": "5:30",
+				"hearts": 0,
+				"materials": [
+					"cold darner",
+					"octorok tentacle",
+					"ice keese wing"
+				]
+			},
+			{
+				"value": 70,
+				"duration": "7:10",
+				"hearts": 0,
+				"materials": [
+					"moblin horn",
+					"moblin horn",
+					"moblin horn",
+					"moblin horn",
+					"cold darner"
+				]
+			}
+		]
+	},
+	{
+		"name": "Spicy Elixir",
+		"description": "Grants a warming effect, increasing your resistance to cold environments. Very useful when exploring snow-covered mountains.",
+		"effect": "Cold Resistance",
+		"variations": [
+			{
+				"level": null,
+				"value": 230,
+				"duration": "15:10",
+				"hearts": 0,
+				"materials": [
+					"bokoblin guts",
+					"bokoblin guts",
+					"bokoblin guts",
+					"bokoblin guts",
+					"summerwing butterfly"
+				]
+			},
+			{
+				"level": "High",
+				"value": 1140,
+				"duration": "11:50",
+				"hearts": 2.5,
+				"materials": [
+					"summerwing butterfly",
+					"lynel guts",
+					"lynel guts",
+					"naydra's scale",
+					"farosh's scale"
+				]
+			}
+		]
+	},
+	{
+		"name": "Electro Elixir",
+		"description": null,
+		"effect": "Electricity Resistance",
+		"variations": [
+			{
+				"level": "Mid",
+				"value": 30,
+				"duration": "6:10",
+				"hearts": 0,
+				"materials": [
+					"electric darner",
+					"electric darner",
+					"lizalfos horn"
+				]
+			}
+		]
+	}
+]

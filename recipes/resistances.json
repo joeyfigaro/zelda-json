@@ -1,95 +1,93 @@
-{
-	"collection": [
-		{
-			"name": "Spicy Sautéed Peppers",
-			"description": "Grants cold resistance. The spiciness of these sautéed peppers has been broken by the heat for a sweeter taste.",
-			"effect": "Cold Resistance",
-			"variations": [
-				{
-					"level": "Low",
-					"hearts": 1,
-					"duration": "2:30",
-					"value": 10,
-					"materials": [
-						"spicy pepper"
-					]
-				},
-				{
-					"level": "Low",
-					"hearts": 2,
-					"duration": "5:00",
-					"value": 20,
-					"materials": [
-						"spicy pepper",
-						"spicy pepper"
-					]
-				},
-				{
-					"level": "Low",
-					"hearts": 3,
-					"duration": "7:30",
-					"value": 30,
-					"materials": [
-						"spicy pepper",
-						"spicy pepper",
-						"spicy pepper"
-					]
-				},
-				{
-					"level": "Mid",
-					"hearts": 4,
-					"duration": "10:00",
-					"value": 40,
-					"materials": [
-						"spicy pepper",
-						"spicy pepper",
-						"spicy pepper",
-						"spicy pepper"
-					]
-				},
-				{
-					"level": "High",
-					"hearts": 5,
-					"duration": "12:50",
-					"value": 50,
-					"materials": [
-						"spicy pepper",
-						"spicy pepper",
-						"spicy pepper",
-						"spicy pepper",
-						"spicy pepper"
-					]
-				}
-			]
-		},
-		{
-			"name": "Spicy Simmered Fruit",
-			"description": null,
-			"effect": "Cold Resistance",
-			"variations": [
-				{
-					"level": "Low",
-					"hearts": 2,
-					"duration": "3:00",
-					"value": 10,
-					"materials": [
-						"apple",
-						"spicy pepper",
-						"silent princess"
-					]
-				},
-				{
-					"level": "Low",
-					"hearts": 3,
-					"duration": "3:30",
-					"value": 20,
-					"materials": [
-						"apple",
-						"spicy pepper",
-						"hylian shroom"
-					]
-				}
-			]
-		}
-	]
-}
+[
+	{
+		"name": "Spicy Sautéed Peppers",
+		"description": "Grants cold resistance. The spiciness of these sautéed peppers has been broken by the heat for a sweeter taste.",
+		"effect": "Cold Resistance",
+		"variations": [
+			{
+				"level": "Low",
+				"hearts": 1,
+				"duration": "2:30",
+				"value": 10,
+				"materials": [
+					"spicy pepper"
+				]
+			},
+			{
+				"level": "Low",
+				"hearts": 2,
+				"duration": "5:00",
+				"value": 20,
+				"materials": [
+					"spicy pepper",
+					"spicy pepper"
+				]
+			},
+			{
+				"level": "Low",
+				"hearts": 3,
+				"duration": "7:30",
+				"value": 30,
+				"materials": [
+					"spicy pepper",
+					"spicy pepper",
+					"spicy pepper"
+				]
+			},
+			{
+				"level": "Mid",
+				"hearts": 4,
+				"duration": "10:00",
+				"value": 40,
+				"materials": [
+					"spicy pepper",
+					"spicy pepper",
+					"spicy pepper",
+					"spicy pepper"
+				]
+			},
+			{
+				"level": "High",
+				"hearts": 5,
+				"duration": "12:50",
+				"value": 50,
+				"materials": [
+					"spicy pepper",
+					"spicy pepper",
+					"spicy pepper",
+					"spicy pepper",
+					"spicy pepper"
+				]
+			}
+		]
+	},
+	{
+		"name": "Spicy Simmered Fruit",
+		"description": null,
+		"effect": "Cold Resistance",
+		"variations": [
+			{
+				"level": "Low",
+				"hearts": 2,
+				"duration": "3:00",
+				"value": 10,
+				"materials": [
+					"apple",
+					"spicy pepper",
+					"silent princess"
+				]
+			},
+			{
+				"level": "Low",
+				"hearts": 3,
+				"duration": "3:30",
+				"value": 20,
+				"materials": [
+					"apple",
+					"spicy pepper",
+					"hylian shroom"
+				]
+			}
+		]
+	}
+]

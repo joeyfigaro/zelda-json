@@ -1,124 +1,122 @@
-{
-	"collection": [
-		{
-			"name": "Tough Fish and Mushroom Skewer",
-			"description": null,
-			"effect": "Defense",
-			"variations": [
-				{
-					"level": "High",
-					"hearts": 9,
-					"duration": "4:10",
-					"value": 130,
-					"materials": [
-						"ironshroom",
-						"armored carp",
-						"armored carp",
-						"armored carp",
-						"armored carp"
-					]
-				}
-			]
-		},
-		{
-			"name": "Tough Fried Wild Greens",
-			"description": null,
-			"effect": "Defense",
-			"variations": [
-				{
-					"level": "Mid",
-					"hearts": 0,
-					"duration": "4:10",
-					"value": 70,
-					"materials": [
-						"armoranth",
-						"armoranth",
-						"armoranth",
-						"armoranth",
-						"armoranth"
-					]
-				}
-			]
-		},
-		{
-			"name": "Tough Mushroom Skewer",
-			"description": null,
-			"effect": "Defense",
-			"variations": [
-				{
-					"level": "Mid",
-					"hearts": 5,
-					"duration": "4:10",
-					"value": 70,
-					"materials": [
-						"ironshroom",
-						"ironshroom",
-						"ironshroom",
-						"ironshroom",
-						"ironshroom"
-					]
-				}
-			]
-		},
-		{
-			"name": "Tough Prime Meat and Seafood Fry",
-			"description": null,
-			"effect": "Defense",
-			"variations": [
-				{
-					"level": "Mid",
-					"hearts": 7,
-					"duration": "3:50",
-					"value": 110,
-					"materials": [
-						"ironshroom",
-						"armoranth",
-						"acorn",
-						"raw prime meat",
-						"armored carp"
-					]
-				}
-			]
-		},
-		{
-			"name": "Tough Steamed Fish",
-			"description": null,
-			"effect": "Defense",
-			"variations": [
-				{
-					"level": "High",
-					"hearts": 4,
-					"duration": "4:10",
-					"value": 90,
-					"materials": [
-						"ironshroom",
-						"ironshroom",
-						"armoranth",
-						"armoranth",
-						"armored carp"
-					]
-				}
-			]
-		},
-		{
-			"name": "Tough Steamed Mushrooms",
-			"description": null,
-			"effect": "Defense",
-			"variations": [
-				{
-					"level": "High",
-					"hearts": 1,
-					"duration": "4:10",
-					"value": 70,
-					"materials": [
-						"ironshroom",
-						"armoranth",
-						"armoranth",
-						"armoranth",
-						"armoranth"
-					]
-				}
-			]
-		}
-	]
-}
+[
+	{
+		"name": "Tough Fish and Mushroom Skewer",
+		"description": null,
+		"effect": "Defense",
+		"variations": [
+			{
+				"level": "High",
+				"hearts": 9,
+				"duration": "4:10",
+				"value": 130,
+				"materials": [
+					"ironshroom",
+					"armored carp",
+					"armored carp",
+					"armored carp",
+					"armored carp"
+				]
+			}
+		]
+	},
+	{
+		"name": "Tough Fried Wild Greens",
+		"description": null,
+		"effect": "Defense",
+		"variations": [
+			{
+				"level": "Mid",
+				"hearts": 0,
+				"duration": "4:10",
+				"value": 70,
+				"materials": [
+					"armoranth",
+					"armoranth",
+					"armoranth",
+					"armoranth",
+					"armoranth"
+				]
+			}
+		]
+	},
+	{
+		"name": "Tough Mushroom Skewer",
+		"description": null,
+		"effect": "Defense",
+		"variations": [
+			{
+				"level": "Mid",
+				"hearts": 5,
+				"duration": "4:10",
+				"value": 70,
+				"materials": [
+					"ironshroom",
+					"ironshroom",
+					"ironshroom",
+					"ironshroom",
+					"ironshroom"
+				]
+			}
+		]
+	},
+	{
+		"name": "Tough Prime Meat and Seafood Fry",
+		"description": null,
+		"effect": "Defense",
+		"variations": [
+			{
+				"level": "Mid",
+				"hearts": 7,
+				"duration": "3:50",
+				"value": 110,
+				"materials": [
+					"ironshroom",
+					"armoranth",
+					"acorn",
+					"raw prime meat",
+					"armored carp"
+				]
+			}
+		]
+	},
+	{
+		"name": "Tough Steamed Fish",
+		"description": null,
+		"effect": "Defense",
+		"variations": [
+			{
+				"level": "High",
+				"hearts": 4,
+				"duration": "4:10",
+				"value": 90,
+				"materials": [
+					"ironshroom",
+					"ironshroom",
+					"armoranth",
+					"armoranth",
+					"armored carp"
+				]
+			}
+		]
+	},
+	{
+		"name": "Tough Steamed Mushrooms",
+		"description": null,
+		"effect": "Defense",
+		"variations": [
+			{
+				"level": "High",
+				"hearts": 1,
+				"duration": "4:10",
+				"value": 70,
+				"materials": [
+					"ironshroom",
+					"armoranth",
+					"armoranth",
+					"armoranth",
+					"armoranth"
+				]
+			}
+		]
+	}
+]
