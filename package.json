@@ -1,5 +1,5 @@
 {
-  "name": "@painless1099/zelda-json",
+  "name": "zelda-json",
   "version": "0.0.1",
   "description": "JSON objects for elixirs and recipes from Breath of the Wild",
   "main": "index.js",
