@@ -1,4 +1,4 @@
-![](https://d3vv6lp55qjaqc.cloudfront.net/items/3E3Q2W1F3H1y3y0L0D2r/zelda-botw-logo.png?X-CloudApp-Visitor-Id=9d89f86b6ccb6c1b3add08ecd06873ad&v=4292da16)
+![](https://d3vv6lp55qjaqc.cloudfront.net/items/0v2k0K0k2V391k1a3l2Y/zelda-botw-logo--small.png?X-CloudApp-Visitor-Id=9d89f86b6ccb6c1b3add08ecd06873ad&v=2117d599)
 
 # Zelda JSON
 JSON for elixirs and recipes found in Breath of the Wild.
