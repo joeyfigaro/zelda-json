@@ -1,4 +1,3 @@
-const scalar = require('./lib/utils').scalar;
 const flatten = require('./lib/utils').flatten;
 
 module.exports = {
