@@ -1,29 +1,29 @@
 {
-	"name": "zelda-json",
-	"version": "0.0.1",
-	"description": "JSON objects for elixirs and recipes from Breath of the Wild",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/joeyfigaro/zelda-json.git"
-	},
-	"keywords": [
-		"Zelda",
-		"video game",
-		"Breath of the Wild",
-		"BOTW",
-		"Zelda",
-		"cooking",
-		"database",
-		"JSON"
-	],
-	"author": "Joey Figaro",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/joeyfigaro/zelda-json/issues"
-	},
-	"homepage": "https://github.com/joeyfigaro/zelda-json#readme"
+  "name": "zelda-json",
+  "version": "0.1.0",
+  "description": "JSON objects for elixirs and recipes from Breath of the Wild",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeyfigaro/zelda-json.git"
+  },
+  "keywords": [
+    "Zelda",
+    "video game",
+    "Breath of the Wild",
+    "BOTW",
+    "Zelda",
+    "cooking",
+    "database",
+    "JSON"
+  ],
+  "author": "Joey Figaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeyfigaro/zelda-json/issues"
+  },
+  "homepage": "https://github.com/joeyfigaro/zelda-json#readme"
 }
