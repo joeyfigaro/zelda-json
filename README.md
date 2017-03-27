@@ -4,3 +4,17 @@
 JSON for elixirs and recipes found in Breath of the Wild.
 
 Initial content pulled from [zelda.recipes](https://zelda.recipes) and the official guidebook. Please feel free to contribute PRs or reach out to me on twitter at `@joeyfigaro`.
+
+## Install
+- `yarn add zelda-json` or `npm install zelda-json`
+
+**es6**
+```js
+import { elixirs, recipes } from 'zelda-json';
+```
+
+**es5**
+```js
+var elixirs = require('zelda-json').elixirs;
+var recipes = require('zelda-json').recipes;
+```
