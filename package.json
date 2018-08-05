@@ -1,6 +1,6 @@
 {
   "name": "zelda-json",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "JSON objects for elixirs and recipes from Breath of the Wild",
   "main": "index.js",
   "scripts": {
