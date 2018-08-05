@@ -1,5 +1,6 @@
 [
 	{
+		"id": "RECIPES_HASTE_0001",
 		"name": "Hasty Mushroom Skewer",
 		"description": "Grants a movement-speed boost. This simple mushroom-packed skewer has its colorful presentation to thank for its appeal.",
 		"effect": "Haste",

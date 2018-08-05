@@ -1,5 +1,6 @@
 [
 	{
+		"id": "RECIPES_STEALTH_0001",
 		"name": "Sneaky Fried Wild Greens",
 		"description": "Grants a low-level stealth boost. A basic vegetable dish made by sautéing fresh wild plants.",
 		"effect": "Stealth",
@@ -70,6 +71,7 @@
 		]
 	},
 	{
+		"id": "RECIPES_STEALTH_0002",
 		"name": "Sneaky Mushroom Skewer",
 		"description": "Grants a stealth boost. This simple mushroom-packed skewer has its colorful presentation to thank for its appeal.",
 		"effect": "Stealth",

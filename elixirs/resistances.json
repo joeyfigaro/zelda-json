@@ -1,5 +1,6 @@
 [
 	{
+		"id": "ELIXIRS_RESISTANCES_0001",
 		"name": "Fireproof Elixir",
 		"description": "Grants a fireproof effect, which prevents your body from catching fire. Be sure to pack this when venturing out to explore Death Mountain.",
 		"effect": "Fireproof",
@@ -19,6 +20,7 @@
 		]
 	},
 	{
+		"id": "ELIXIRS_RESISTANCES_0002",
 		"name": "Chilly Elixir",
 		"description": null,
 		"effect": "Heat Resistance",
@@ -48,6 +50,7 @@
 		]
 	},
 	{
+		"id": "ELIXIRS_RESISTANCES_0003",
 		"name": "Spicy Elixir",
 		"description": "Grants a warming effect, increasing your resistance to cold environments. Very useful when exploring snow-covered mountains.",
 		"effect": "Cold Resistance",
@@ -81,6 +84,7 @@
 		]
 	},
 	{
+		"id": "ELIXIRS_RESISTANCES_0004",
 		"name": "Electro Elixir",
 		"description": null,
 		"effect": "Electricity Resistance",

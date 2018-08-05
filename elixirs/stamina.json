@@ -1,5 +1,6 @@
 [
 	{
+		"id": "ELIXIRS_STAMINA_0001",
 		"name": "Energizing Elixir",
 		"description": "Restores your stamina, which is used when performing physical actions such as climbing walls or swimming.",
 		"effect": "Stamina",

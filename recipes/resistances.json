@@ -1,5 +1,6 @@
 [
 	{
+		"id": "RECIPES_RESISTANCES_0001",
 		"name": "Spicy Sautéed Peppers",
 		"description": "Grants cold resistance. The spiciness of these sautéed peppers has been broken by the heat for a sweeter taste.",
 		"effect": "Cold Resistance",
@@ -62,6 +63,7 @@
 		]
 	},
 	{
+		"id": "RECIPES_RESISTANCES_0002",
 		"name": "Spicy Simmered Fruit",
 		"description": null,
 		"effect": "Cold Resistance",

@@ -1,5 +1,6 @@
 [
 	{
+		"id": "RECIPES_MAX_HEARTS_0001",
 		"name": "Hearty Meat and Mushroom Skewer",
 		"description": "Restores your health and temporarily increases your maximum hearts. A filling dish made by cooking fresh seafood and meat together",
 		"effect": "Max Hearts",
@@ -113,6 +114,7 @@
 		]
 	},
 	{
+		"id": "RECIPES_MAX_HEARTS_0002",
 		"name": "Hearty Simmered Fruit",
 		"description": "Restores your health and temporarily increases your maximum hearts. This sweet dish is made by heaping tasty fruits into a pan and simmering until tender.",
 		"effect": "Max Hearts",
@@ -165,6 +167,7 @@
 		]
 	},
 	{
+		"id": "RECIPES_DEFENSE_0003",
 		"name": "Hearty Meat and Seafood Fry",
 		"description": "Restores your health and temporarily increases your maximum hearts. A filling dish made by cooking fresh seafood and meat together.",
 		"effect": "Max Hearts",
@@ -282,6 +285,7 @@
 		]
 	},
 	{
+		"id": "RECIPES_DEFENSE_0004",
 		"name": "Hearty Fish Skewer",
 		"description": "Restores your health and temporarily increases your maximum hearts. A simple dish made by cooking chunks of fresh fish on a skewer.",
 		"effect": "Max Hearts",
@@ -334,6 +338,7 @@
 		]
 	},
 	{
+		"id": "RECIPES_DEFENSE_0005",
 		"name": "Hearty Simmered Fruit",
 		"description": "Restores your health and temporarily increases your maximum hearts. This sweet dish is made by heaping tasty fruits into a pan and simmering until tender.",
 		"effect": "Max Hearts",
@@ -347,6 +352,7 @@
 		]
 	},
 	{
+		"id": "RECIPES_DEFENSE_0006",
 		"name": "Hearty Fried Wild Greens (THIS CAN'T BE RIGHT)",
 		"description": null,
 		"effect": "Max Hearts",
@@ -361,6 +367,7 @@
 		]
 	},
 	{
+		"id": "RECIPES_DEFENSE_0007",
 		"name": "Hearty Meat Skewer",
 		"description": "Restores your health and temporarily increases your maximum hearts. A juicy, filling snack made by grilling small chunks of meat on a skewer.",
 		"effect": "Max Hearts",
@@ -458,6 +465,7 @@
 		]
 	},
 	{
+		"id": "RECIPES_DEFENSE_0008",
 		"name": "Hearty Fruit and Mushroom Mix",
 		"description": "Restores your health and temporarily increases your maximum hearts. This dish contrasts the sweetness of fruit with the savoriness of mushrooms.",
 		"effect": "Max Hearts",
@@ -565,6 +573,7 @@
 		]
 	},
 	{
+		"id": "RECIPES_DEFENSE_0009",
 		"name": "Hearty Steamed Meat",
 		"description": null,
 		"effect": "Max Hearts",

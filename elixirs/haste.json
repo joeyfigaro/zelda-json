@@ -1,5 +1,6 @@
 [
 	{
+		"id": "ELIXIR_HASTE_0001",
 		"name": "Hasty Elixir",
 		"description": "Grants a haste effect, which boosts your movement speed while running, swimming, or climbing.",
 		"effect": "Haste",

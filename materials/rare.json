@@ -1,0 +1,11 @@
+[
+	{
+		"id": "MATERIALS_RARE_0001",
+		"name": "Star Fragment",
+		"value": 300,
+		"hearts": 0,
+		"category": "",
+		"duration": 30,
+		"how_to_obtain": "Found at the landing site of comets/shooting stars"
+	}
+]

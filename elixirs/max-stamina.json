@@ -1,5 +1,6 @@
 [
 	{
+		"id": "ELIXIRS_MAX_STAMINA_0001",
 		"name": "Enduring Elixir",
 		"description": "Restores stamina and temporarily extends your Stamina Wheel. The additional stamina will disappear as it's used.",
 		"effect": "Max Stamina",
